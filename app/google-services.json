@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873025062149",
+    "firebase_url": "https://ruacotranslator.firebaseio.com",
+    "project_id": "ruacotranslator",
+    "storage_bucket": "ruacotranslator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873025062149:android:45ecff050738574adfe36c",
+        "android_client_info": {
+          "package_name": "com.example.iruaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873025062149-flh6462i152n74feh8bkbqp4hg2lq7nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iruaco",
+            "certificate_hash": "62e6cc60d429ba7e603e1075e095698865884bac"
+          }
+        },
+        {
+          "client_id": "873025062149-l4rornj5v4rjs5591j00oahe2apel3te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDPjvwnJPVlwNgJ_Dibiuf5b6VxZQ8yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873025062149-l4rornj5v4rjs5591j00oahe2apel3te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
